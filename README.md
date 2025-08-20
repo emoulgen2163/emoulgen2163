@@ -27,7 +27,7 @@
 🔹 [Contacts App](https://github.com/emoulgen2163/ContactsApp) – Contact manager app with Room, MVVM, Hilt, LiveData  
 🔹 [E-Commerce App](https://github.com/emoulgen2163/ECommerceApp) – E-commerce mobile app with Firebase Firestore integration  
 🔹 [Note Taking App](https://github.com/emoulgen2163/NoteTakingApp) – CRUD note app with Room, MVVM, and Fragments  
-🔹 [Simple Calculator App](https://github.com/emoulgen2163/CalculatorApp) – Calculator app with LiveData and Rhino engine  
+🔹 [Simple Calculator App](https://github.com/emoulgen2163/calculator-app) – Calculator app with LiveData and Rhino engine  
 🔹 [Todo List App](https://github.com/emoulgen2163/todo-list-app) – Task manager app with Kotlin + Android Studio  
 
 ---
