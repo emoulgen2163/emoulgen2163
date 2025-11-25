@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Kotlin, Java (basic), Dart (basic)  
+- **Languages:** Kotlin
 - **Frameworks & Tools:** Android Studio, MVVM, Hilt, Room, LiveData  
 - **Databases & Cloud:** Firebase Firestore, SQLite  
 - **Other Tools:** Git, GitHub, REST APIs, Agile  
