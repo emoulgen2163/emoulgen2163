@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emirhan Ülgen  
 
 🎓 Computer Science Graduate – University of Greenwich  
-📱 Mobile App Developer – Specialized in **Android & Kotlin**  
+📱 Software Developer – Specialized in **Android & Kotlin**  
 🌍 Currently based in the UK, open to full-time and collaboration opportunities  
 
 ---
