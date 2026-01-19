@@ -34,6 +34,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/emirhan-ülgen-481495231/)  
-- [GitHub](https://github.com/emoulgen2163)  
+- [GitHub](https://github.com/emoulgen2163)
+- [Instagram](https://www.instagram.com/eu_it63)
 
 💡 *Always open for networking, collaborations, and exciting new opportunities!*  
