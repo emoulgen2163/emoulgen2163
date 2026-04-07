@@ -24,9 +24,10 @@
 ---
 
 ## 📌 Featured Projects
-🔹 [Todo List App](https://github.com/emoulgen2163/TodoListApp) – Task manager app with Kotlin + Android Studio, Room  
+🔹 [Car MPG Prediction and Recommendation App](https://github.com/emoulgen2163/CarMPGPredictionApp) – An Android application that predicts a car's fuel efficiency (MPG — Miles Per Gallon) using an on-device TensorFlow Lite machine learning model. After predicting, the app recommends real-world cars that match the predicted efficiency profile and lets you explore detailed specs and photos for each one.  
 🔹 [Contacts App](https://github.com/emoulgen2163/ContactsApp) – Contact manager app with Room, MVVM, Hilt, LiveData  
-🔹 [E-Commerce App](https://github.com/emoulgen2163/ECommerceApp) – E-commerce mobile app with Firebase Firestore integration  
+🔹 [Job Application Tracker App](https://github.com/emoulgen2163/JobApplicationTrackerApp) – Job Application Tracker is an Android application that helps users track their job applications in one place.
+Users can add, edit, delete, and filter job applications based on their current status. CRUD operations with Room database. 
 🔹 [Note Taking App](https://github.com/emoulgen2163/NoteTakingApp) – CRUD note app with Room, MVVM, and Fragments  
 🔹 [Simple Calculator App](https://github.com/emoulgen2163/calculator-app) – Calculator app with LiveData and Rhino engine  
 
